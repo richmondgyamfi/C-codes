@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480038405 source:c:\users\richy\desktop\brut\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<ctime>
+	<cmath>
+	<cstring>
+
